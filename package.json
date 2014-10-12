@@ -1,7 +1,7 @@
 {
   "name": "gobble-test",
   "description": "Utility for testing gobble plugins",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Rich Harris",
   "license": "MIT",
   "repository": "https://github.com/gobblejs/gobble-test",
