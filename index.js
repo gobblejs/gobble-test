@@ -13,6 +13,8 @@ module.exports = function ( tests, callback ) {
 		test = tests.shift();
 
 		if ( !test ) {
+			console.log( '\nall tests passed' );
+
 			if ( callback ) {
 				callback();
 			}
