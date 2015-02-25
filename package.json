@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "https://github.com/gobblejs/gobble-test",
   "dependencies": {
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "rimraf": "^2.2.8",
     "spelunk": "^0.3.0"
   }
